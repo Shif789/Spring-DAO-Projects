@@ -1,0 +1,6 @@
+Name: Shifath Hossain
+Age: 26
+Phone no: +8801311470875
+Education: BSc in Computer Science
+Skill-Set: Front-end(ReactJS, HTML, CSS, JS)
+	   Back-end(Core Java, Advanced Java, JEE, Hibernate, Spring, MicroService)
